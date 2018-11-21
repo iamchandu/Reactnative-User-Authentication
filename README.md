@@ -1,4 +1,4 @@
-** User Authentication using React Native **  
+**User Authentication using React Native**  
 Install Dependencies  
 `npm install`  
 
